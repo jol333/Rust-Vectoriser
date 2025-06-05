@@ -1,0 +1,11 @@
+/Users/joyal.ks/Documents/Personal/Dev Experiments/Mac Apps/Rust Vectoriser/target/debug/deps/libglyphon-bf998df39802c8a4.rmeta: /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/lib.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/error.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_atlas.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_render.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/joyal.ks/Documents/Personal/Dev Experiments/Mac Apps/Rust Vectoriser/target/debug/deps/libglyphon-bf998df39802c8a4.rlib: /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/lib.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/error.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_atlas.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_render.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/joyal.ks/Documents/Personal/Dev Experiments/Mac Apps/Rust Vectoriser/target/debug/deps/glyphon-bf998df39802c8a4.d: /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/lib.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/error.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_atlas.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_render.rs /Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/shader.wgsl
+
+/Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/lib.rs:
+/Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/error.rs:
+/Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_atlas.rs:
+/Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/text_render.rs:
+/Users/joyal.ks/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glyphon-0.3.0/src/shader.wgsl:
